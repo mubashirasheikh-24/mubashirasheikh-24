@@ -1,10 +1,10 @@
 ![My intro](https://github.com/user-attachments/assets/2e637177-9bea-4518-9030-611983fa5fa5)
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 I’m Mubashira Sheikh, a Software Engineer with a passion for full-stack and mobile development. I love turning ideas into user-friendly digital experiences using technologies like JavaScript, Python, MongoDB, and Flutter. Currently diving into open source and cloud computing — always curious, always building.
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -36,7 +36,7 @@ I’m Mubashira Sheikh, a Software Engineer with a passion for full-stack and mo
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-# Let's Connect:
+## 🔗 Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
 
