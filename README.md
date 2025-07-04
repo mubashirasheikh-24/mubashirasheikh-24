@@ -38,7 +38,7 @@ I’m Mubashira Sheikh, a Software Engineer with a passion for full-stack and mo
 
 # Let's Connect:
 
-![Linkedin]https://www.linkedin.com/in/mubashira-sheikh-413423205/
+https://www.linkedin.com/in/mubashira-sheikh-413423205/
 
 
 
